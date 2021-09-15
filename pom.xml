@@ -25,7 +25,7 @@
 	    </snapshotRepository>
    </distributionManagement>
  <build>
-    <finalName>maven-project</finalName>
+    <finalName>maven-project2</finalName>
     <plugins>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
